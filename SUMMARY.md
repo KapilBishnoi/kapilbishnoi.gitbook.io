@@ -5,5 +5,3 @@
 * [Untitled](untitled.md)
 * Untitled
 
-## Sample
-
