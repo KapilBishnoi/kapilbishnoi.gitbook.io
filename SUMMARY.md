@@ -5,3 +5,8 @@
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
 
+## FAQs
+
+* [Untitled](faqs/untitled.md)
+* [Untitled](faqs/untitled-1.md)
+
